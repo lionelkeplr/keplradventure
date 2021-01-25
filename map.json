@@ -37,7 +37,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"chill-zone"
+                 "value":"eating-zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.google.com\/ntr-nwxy-dyn"
+                 "value":"syrup-detente-room"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -89,7 +89,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jistiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"meeting-room"
                 }],
@@ -107,9 +107,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.google.com\/bus-esjv-yxv"
+                 "value":"chill-zone"
                 }],
          "type":"tilelayer",
          "visible":true,
