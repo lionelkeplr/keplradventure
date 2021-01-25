@@ -35,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.google.com\/iey-xzyz-pyn"
+                 "value":"chill-zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -71,9 +71,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.google.com\/nbw-axsd-xpz"
+                 "value":"small-meeting-room"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -89,9 +89,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jistiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.google.com\/tju-tikx-phh"
+                 "value":"meeting-room"
                 }],
          "type":"tilelayer",
          "visible":true,
